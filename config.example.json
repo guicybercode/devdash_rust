@@ -1,0 +1,9 @@
+{
+  "theme": "moonlight",
+  "github_token": "ghp_your_token_here",
+  "gitlab_token": "glpat_your_token_here",
+  "repo_path": ".",
+  "github_repo": "owner/repo",
+  "gitlab_project_id": "12345",
+  "timer_default_minutes": 25
+}
