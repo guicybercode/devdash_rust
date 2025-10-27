@@ -1,5 +1,9 @@
 # DevDash - Developer TUI Dashboard
 
+<div align="center">
+<img src="devdash.png" width="500"/>
+</div>
+
 DevDash is an interactive terminal-based dashboard built with Rust that displays real-time metrics and information for developers. It centralizes productivity data, Git repository status, CI/CD build monitoring, test coverage, and system resource usage in a lightweight and responsive TUI interface.
 
 ## Features
@@ -187,3 +191,4 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 
 made by moonguip gui기กีギ
+
